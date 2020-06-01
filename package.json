@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node src/index.js"
+    "start": "nodemon --exec babel-node src/server.js"
   },
   "keywords": [],
   "author": "Görkem Tosun <grkkmm1@gmail.com> (gorkemtosun.site)",
